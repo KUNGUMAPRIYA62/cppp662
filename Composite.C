@@ -12,10 +12,10 @@ void main()
     }
     if(count==0)
     {
-        printf("no..it is prime");
+        printf("no,prime");
     }
     else
     {
-        printf("yes..it is composite");
+        printf("yes,composite");
     }
 }
